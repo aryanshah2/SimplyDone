@@ -1,8 +1,7 @@
 
 # SimplyDone
 
-A brief description of what this project does and who it's for
-
+Embracing Simplicity in Task Managment
 
 ## Demo
 
