@@ -1,3 +1,4 @@
+![Simply-fotor-bg-remover-20240209164925](https://github.com/YashShah5/SimplyDone/assets/109703679/dd8eae19-11e9-4d6a-a170-31f05f9979c8)
 
 # SimplyDone
 
