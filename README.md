@@ -1,5 +1,3 @@
-![DALL·E 2024-02-09 16 31 52 - Design a horizontal logo that incorporates the stylized neon gradient letter 'T' from the provided app icon  The logo should be widened to fit horizon](https://github.com/YashShah5/SimplyDone/assets/109703679/4910ec5e-38da-4dcb-a329-930e7d02ae46)
-
 # SimplyDone
 
 Embracing Simplicity in Task Managment
