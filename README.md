@@ -21,6 +21,7 @@ SwiftUI, Xcode, & React Native JavaScript
 ## Authors
 
 - [@Yash Shah](https://www.github.com/yashshah5)
+- [@Aryan Shah](https://www.github.com/aryanshah2)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-685c44?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yashshah5.github.io/)
